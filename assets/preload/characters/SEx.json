@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-191,
+				-237
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Encore Left Note"
+		},
+		{
+			"offsets": [
+				-253,
+				-254
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Encore Up Note"
+		},
+		{
+			"offsets": [
+				-177,
+				-216
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Encore Down Note"
+		},
+		{
+			"offsets": [
+				-298,
+				-287
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Encore Right Note"
+		},
+		{
+			"offsets": [
+				-100,
+				-249
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Encore Idle Dance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Encore",
+	"position": [
+		-270,
+		-70
+	],
+	"healthicon": "encore-sex",
+	"flip_x": false,
+	"healthbar_colors": [
+		171,
+		3,
+		213
+	],
+	"camera_position": [
+		140,
+		360
+	],
+	"sing_duration": 6.7,
+	"scale": 0.85
+}

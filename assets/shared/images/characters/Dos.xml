@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Dos.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dos Down Note0000" x="481" y="1281" width="367" height="242" frameX="0" frameY="-51" frameWidth="367" frameHeight="294"/>
+	<SubTexture name="Dos Down Note0001" x="481" y="1281" width="367" height="242" frameX="0" frameY="-51" frameWidth="367" frameHeight="294"/>
+	<SubTexture name="Dos Down Note0002" x="2154" y="954" width="363" height="251" frameX="0" frameY="-42" frameWidth="367" frameHeight="294"/>
+	<SubTexture name="Dos Down Note0003" x="2154" y="954" width="363" height="251" frameX="0" frameY="-42" frameWidth="367" frameHeight="294"/>
+	<SubTexture name="Dos Down Note0004" x="1956" y="549" width="361" height="291" frameX="0" frameY="-3" frameWidth="367" frameHeight="294"/>
+	<SubTexture name="Dos Down Note0005" x="1956" y="549" width="361" height="291" frameX="0" frameY="-3" frameWidth="367" frameHeight="294"/>
+	<SubTexture name="Dos Down Note0006" x="1716" y="920" width="358" height="293" frameX="0" frameY="0" frameWidth="367" frameHeight="294"/>
+	<SubTexture name="Dos Down Note0007" x="1716" y="920" width="358" height="293" frameX="0" frameY="0" frameWidth="367" frameHeight="294"/>
+	<SubTexture name="Dos Down Note0008" x="1716" y="920" width="358" height="293" frameX="0" frameY="0" frameWidth="367" frameHeight="294"/>
+	<SubTexture name="Dos Down Note0009" x="1716" y="920" width="358" height="293" frameX="0" frameY="0" frameWidth="367" frameHeight="294"/>
+	<SubTexture name="Dos Idle Dance0000" x="1305" y="557" width="331" height="317"/>
+	<SubTexture name="Dos Idle Dance0001" x="1305" y="557" width="331" height="317"/>
+	<SubTexture name="Dos Idle Dance0002" x="1305" y="557" width="331" height="317"/>
+	<SubTexture name="Dos Idle Dance0003" x="481" y="884" width="331" height="317"/>
+	<SubTexture name="Dos Idle Dance0004" x="481" y="884" width="331" height="317"/>
+	<SubTexture name="Dos Idle Dance0005" x="481" y="884" width="331" height="317"/>
+	<SubTexture name="Dos Idle Dance0006" x="1305" y="557" width="331" height="317"/>
+	<SubTexture name="Dos Idle Dance0007" x="1305" y="557" width="331" height="317"/>
+	<SubTexture name="Dos Idle Dance0008" x="1305" y="557" width="331" height="317"/>
+	<SubTexture name="Dos Idle Dance0009" x="481" y="884" width="331" height="317"/>
+	<SubTexture name="Dos Idle Dance0010" x="481" y="884" width="331" height="317"/>
+	<SubTexture name="Dos Idle Dance0011" x="481" y="884" width="331" height="317"/>
+	<SubTexture name="Dos Idle Dance0012" x="481" y="884" width="331" height="317"/>
+	<SubTexture name="Dos Left Note0000" x="481" y="466" width="333" height="338"/>
+	<SubTexture name="Dos Left Note0001" x="481" y="466" width="333" height="338"/>
+	<SubTexture name="Dos Left Note0002" x="894" y="466" width="331" height="338" frameX="0" frameY="0" frameWidth="333" frameHeight="338"/>
+	<SubTexture name="Dos Left Note0003" x="894" y="466" width="331" height="338" frameX="0" frameY="0" frameWidth="333" frameHeight="338"/>
+	<SubTexture name="Dos Left Note0004" x="3333" y="525" width="331" height="332" frameX="0" frameY="-6" frameWidth="333" frameHeight="338"/>
+	<SubTexture name="Dos Left Note0005" x="3333" y="525" width="331" height="332" frameX="0" frameY="-6" frameWidth="333" frameHeight="338"/>
+	<SubTexture name="Dos Left Note0006" x="2441" y="542" width="331" height="332" frameX="0" frameY="-6" frameWidth="333" frameHeight="338"/>
+	<SubTexture name="Dos Left Note0007" x="2441" y="542" width="331" height="332" frameX="0" frameY="-6" frameWidth="333" frameHeight="338"/>
+	<SubTexture name="Dos Left Note0008" x="2441" y="542" width="331" height="332" frameX="0" frameY="-6" frameWidth="333" frameHeight="338"/>
+	<SubTexture name="Dos Left Note0009" x="2441" y="542" width="331" height="332" frameX="0" frameY="-6" frameWidth="333" frameHeight="338"/>
+	<SubTexture name="Dos Right Note0000" x="1464" y="70" width="412" height="407"/>
+	<SubTexture name="Dos Right Note0001" x="1464" y="70" width="412" height="407"/>
+	<SubTexture name="Dos Right Note0002" x="1956" y="70" width="405" height="399" frameX="0" frameY="-8" frameWidth="412" frameHeight="407"/>
+	<SubTexture name="Dos Right Note0003" x="1956" y="70" width="405" height="399" frameX="0" frameY="-8" frameWidth="412" frameHeight="407"/>
+	<SubTexture name="Dos Right Note0004" x="2441" y="70" width="372" height="392" frameX="0" frameY="-15" frameWidth="412" frameHeight="407"/>
+	<SubTexture name="Dos Right Note0005" x="2441" y="70" width="372" height="392" frameX="0" frameY="-15" frameWidth="412" frameHeight="407"/>
+	<SubTexture name="Dos Right Note0006" x="2893" y="70" width="360" height="394" frameX="0" frameY="-13" frameWidth="412" frameHeight="407"/>
+	<SubTexture name="Dos Right Note0007" x="2893" y="70" width="360" height="394" frameX="0" frameY="-13" frameWidth="412" frameHeight="407"/>
+	<SubTexture name="Dos Right Note0008" x="2893" y="70" width="360" height="394" frameX="0" frameY="-13" frameWidth="412" frameHeight="407"/>
+	<SubTexture name="Dos Right Note0009" x="2893" y="70" width="360" height="394" frameX="0" frameY="-13" frameWidth="412" frameHeight="407"/>
+	<SubTexture name="Dos Up Note0000" x="3333" y="70" width="331" height="375"/>
+	<SubTexture name="Dos Up Note0001" x="3333" y="70" width="331" height="375"/>
+	<SubTexture name="Dos Up Note0002" x="70" y="464" width="331" height="347" frameX="0" frameY="-28" frameWidth="331" frameHeight="375"/>
+	<SubTexture name="Dos Up Note0003" x="70" y="464" width="331" height="347" frameX="0" frameY="-28" frameWidth="331" frameHeight="375"/>
+	<SubTexture name="Dos Up Note0004" x="2852" y="544" width="331" height="320" frameX="0" frameY="-53" frameWidth="331" frameHeight="375"/>
+	<SubTexture name="Dos Up Note0005" x="2852" y="544" width="331" height="320" frameX="0" frameY="-53" frameWidth="331" frameHeight="375"/>
+	<SubTexture name="Dos Up Note0006" x="70" y="891" width="331" height="316" frameX="0" frameY="-57" frameWidth="331" frameHeight="375"/>
+	<SubTexture name="Dos Up Note0007" x="70" y="891" width="331" height="316" frameX="0" frameY="-57" frameWidth="331" frameHeight="375"/>
+	<SubTexture name="Dos Up Note0008" x="70" y="891" width="331" height="316" frameX="0" frameY="-57" frameWidth="331" frameHeight="375"/>
+	<SubTexture name="Dos Up Note0009" x="70" y="891" width="331" height="316" frameX="0" frameY="-57" frameWidth="331" frameHeight="375"/>
+	<SubTexture name="Dos entrada0000" x="3666" y="1062" width="266" height="44" frameX="-202" frameY="-254" frameWidth="689" frameHeight="317"/>
+	<SubTexture name="Dos entrada0001" x="3666" y="1062" width="266" height="44" frameX="-202" frameY="-254" frameWidth="689" frameHeight="317"/>
+	<SubTexture name="Dos entrada0002" x="3666" y="1186" width="277" height="33" frameX="-194" frameY="-265" frameWidth="689" frameHeight="317"/>
+	<SubTexture name="Dos entrada0003" x="3666" y="1186" width="277" height="33" frameX="-194" frameY="-265" frameWidth="689" frameHeight="317"/>
+	<SubTexture name="Dos entrada0004" x="70" y="1287" width="299" height="138" frameX="-179" frameY="-166" frameWidth="689" frameHeight="317"/>
+	<SubTexture name="Dos entrada0005" x="1303" y="954" width="322" height="291" frameX="-162" frameY="-13" frameWidth="689" frameHeight="317"/>
+	<SubTexture name="Dos entrada0006" x="1303" y="954" width="322" height="291" frameX="-162" frameY="-13" frameWidth="689" frameHeight="317"/>
+	<SubTexture name="Dos entrada0007" x="3263" y="937" width="323" height="295" frameX="-161" frameY="-9" frameWidth="689" frameHeight="317"/>
+	<SubTexture name="Dos entrada0008" x="2852" y="944" width="323" height="295" frameX="-161" frameY="-9" frameWidth="689" frameHeight="317"/>
+	<SubTexture name="Dos entrada0009" x="2852" y="944" width="323" height="295" frameX="-161" frameY="-9" frameWidth="689" frameHeight="317"/>
+	<SubTexture name="Dos entrada0010" x="2154" y="1285" width="372" height="136" frameX="-159" frameY="-180" frameWidth="689" frameHeight="317"/>
+	<SubTexture name="Dos entrada0011" x="2154" y="1285" width="372" height="136" frameX="-159" frameY="-180" frameWidth="689" frameHeight="317"/>
+	<SubTexture name="Dos entrada0012" x="839" y="70" width="545" height="316" frameX="-78" frameY="0" frameWidth="689" frameHeight="317"/>
+	<SubTexture name="Dos entrada0013" x="839" y="70" width="545" height="316" frameX="-78" frameY="0" frameWidth="689" frameHeight="317"/>
+	<SubTexture name="Dos entrada0014" x="70" y="70" width="689" height="314" frameX="0" frameY="-3" frameWidth="689" frameHeight="317"/>
+	<SubTexture name="Dos entrada0015" x="70" y="70" width="689" height="314" frameX="0" frameY="-3" frameWidth="689" frameHeight="317"/>
+	<SubTexture name="Dos entrada0016" x="892" y="884" width="331" height="316" frameX="-161" frameY="0" frameWidth="689" frameHeight="317"/>
+	<SubTexture name="Dos entrada0017" x="892" y="884" width="331" height="316" frameX="-161" frameY="0" frameWidth="689" frameHeight="317"/>
+	<SubTexture name="Dos initial Idle Dance0000" x="3666" y="1062" width="266" height="44" frameX="0" frameY="0" frameWidth="689" frameHeight="317"/>
+	<SubTexture name="Dos initial Idle Dance0001" x="3666" y="1062" width="266" height="44" frameX="0" frameY="0" frameWidth="689" frameHeight="317"/>
+	<SubTexture name="Dos initial Idle Dance0002" x="3666" y="937" width="266" height="45"/>
+	<SubTexture name="Dos initial Idle Dance0003" x="3666" y="937" width="266" height="45"/>
+</TextureAtlas>

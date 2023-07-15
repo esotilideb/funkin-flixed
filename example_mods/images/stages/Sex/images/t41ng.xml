@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="t41ng.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="t41ing0000" x="20" y="20" width="498" height="401"/>
+	<SubTexture name="t41ing0001" x="20" y="20" width="498" height="401"/>
+	<SubTexture name="t41ing0002" x="20" y="436" width="498" height="401"/>
+	<SubTexture name="t41ing0003" x="20" y="436" width="498" height="401"/>
+</TextureAtlas>

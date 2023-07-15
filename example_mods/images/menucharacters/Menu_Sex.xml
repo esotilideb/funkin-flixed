@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Sex.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Encore Idle Dance0000" x="741" y="776" width="707" height="738" frameX="-1" frameY="-2" frameWidth="708" frameHeight="746"/>
+	<SubTexture name="Encore Idle Dance0001" x="741" y="776" width="707" height="738" frameX="-1" frameY="-2" frameWidth="708" frameHeight="746"/>
+	<SubTexture name="Encore Idle Dance0002" x="741" y="20" width="708" height="741" frameX="0" frameY="0" frameWidth="708" frameHeight="746"/>
+	<SubTexture name="Encore Idle Dance0003" x="741" y="20" width="708" height="741" frameX="0" frameY="0" frameWidth="708" frameHeight="746"/>
+	<SubTexture name="Encore Idle Dance0004" x="741" y="776" width="707" height="738" frameX="-1" frameY="-2" frameWidth="708" frameHeight="746"/>
+	<SubTexture name="Encore Idle Dance0005" x="741" y="776" width="707" height="738" frameX="-1" frameY="-2" frameWidth="708" frameHeight="746"/>
+	<SubTexture name="Encore Idle Dance0006" x="20" y="20" width="706" height="745" frameX="-2" frameY="-1" frameWidth="708" frameHeight="746"/>
+	<SubTexture name="Encore Idle Dance0007" x="20" y="20" width="706" height="745" frameX="-2" frameY="-1" frameWidth="708" frameHeight="746"/>
+</TextureAtlas>

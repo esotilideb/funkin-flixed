@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="John Intro.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="John Intro0000" x="20" y="20" width="1016" height="868"/>
+	<SubTexture name="John Intro0001" x="20" y="20" width="1016" height="868"/>
+	<SubTexture name="John Intro0002" x="20" y="903" width="1016" height="867" frameX="0" frameY="0" frameWidth="1016" frameHeight="868"/>
+	<SubTexture name="John Intro0003" x="20" y="903" width="1016" height="867" frameX="0" frameY="0" frameWidth="1016" frameHeight="868"/>
+</TextureAtlas>

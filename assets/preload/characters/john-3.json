@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "John Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				-80
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "John Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-190
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "John Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-40
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "John Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				100
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "John Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/John 3",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "trio",
+	"flip_x": true,
+	"healthbar_colors": [
+		249,
+		70,
+		53
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

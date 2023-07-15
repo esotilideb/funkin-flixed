@@ -1,0 +1,11 @@
+{
+	"idle_anim": "BF idle dance",
+	"image": "Menu_BF2",
+	"position": [
+		0,
+		60
+	],
+	"flipX": false,
+	"scale": 0.6,
+	"confirm_anim": "BF HEY!!"
+}

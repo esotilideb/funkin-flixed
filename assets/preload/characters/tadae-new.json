@@ -1,0 +1,93 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				-90
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Tadae Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-180,
+				-3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Tadae Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-170,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "Tadae Idle Dance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				132
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Tadae Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-59,
+				-50
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Tadae LeftNote",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Tadae_New",
+	"position": [
+		-200,
+		60
+	],
+	"healthicon": "tadae",
+	"flip_x": false,
+	"healthbar_colors": [
+		155,
+		66,
+		100
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 5.6,
+	"scale": 0.9
+}

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fortnite.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Letra0000" x="20" y="20" width="1280" height="720" frameX="0" frameY="-3" frameWidth="1283" frameHeight="723"/>
+	<SubTexture name="Letra0001" x="20" y="20" width="1280" height="720" frameX="0" frameY="-3" frameWidth="1283" frameHeight="723"/>
+	<SubTexture name="Letra0002" x="20" y="20" width="1280" height="720" frameX="-3" frameY="0" frameWidth="1283" frameHeight="723"/>
+	<SubTexture name="Letra0003" x="20" y="20" width="1280" height="720" frameX="-3" frameY="0" frameWidth="1283" frameHeight="723"/>
+</TextureAtlas>

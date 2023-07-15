@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_gallery.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gallery white0000" x="1334" y="70" width="554" height="271" frameX="0" frameY="-14" frameWidth="554" frameHeight="285"/>
+	<SubTexture name="gallery white0001" x="70" y="70" width="553" height="285" frameX="0" frameY="0" frameWidth="554" frameHeight="285"/>
+	<SubTexture name="gallery white0002" x="703" y="70" width="551" height="283" frameX="-1" frameY="-1" frameWidth="554" frameHeight="285"/>
+	<SubTexture name="gallery basic0000" x="1334" y="421" width="528" height="264"/>
+	<SubTexture name="gallery basic0001" x="1334" y="421" width="528" height="264"/>
+	<SubTexture name="gallery basic0002" x="1334" y="421" width="528" height="264"/>
+	<SubTexture name="gallery basic0003" x="703" y="433" width="528" height="263" frameX="0" frameY="-1" frameWidth="528" frameHeight="264"/>
+	<SubTexture name="gallery basic0004" x="703" y="433" width="528" height="263" frameX="0" frameY="-1" frameWidth="528" frameHeight="264"/>
+	<SubTexture name="gallery basic0005" x="703" y="433" width="528" height="263" frameX="0" frameY="-1" frameWidth="528" frameHeight="264"/>
+	<SubTexture name="gallery basic0006" x="70" y="435" width="528" height="263" frameX="0" frameY="-1" frameWidth="528" frameHeight="264"/>
+	<SubTexture name="gallery basic0007" x="70" y="435" width="528" height="263" frameX="0" frameY="-1" frameWidth="528" frameHeight="264"/>
+	<SubTexture name="gallery basic0008" x="70" y="435" width="528" height="263" frameX="0" frameY="-1" frameWidth="528" frameHeight="264"/>
+</TextureAtlas>

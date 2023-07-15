@@ -1,0 +1,93 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-184,
+				91
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Tadae Down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-183,
+				140
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Tadae Idle Dance",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"offsets": [
+				-186,
+				231
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Tadae Up"
+		},
+		{
+			"offsets": [
+				-184,
+				115
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Tadae Left"
+		},
+		{
+			"offsets": [
+				-183,
+				142
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Tadae RIght Note"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Tadae Rework Gf",
+	"position": [
+		220,
+		180
+	],
+	"healthicon": "tadae",
+	"flip_x": false,
+	"healthbar_colors": [
+		155,
+		46,
+		40
+	],
+	"camera_position": [
+		-40,
+		-100
+	],
+	"sing_duration": 6.1,
+	"scale": 1.2
+}

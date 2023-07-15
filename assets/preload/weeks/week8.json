@@ -1,0 +1,50 @@
+{
+	"storyName": "First Plot Swag",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "desert",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Camp Of Duty",
+			"Tadae",
+			[
+				195,
+				153,
+				0
+			]
+		],
+		[
+			"Strike Counter",
+			"john",
+			[
+				166,
+				173,
+				60
+			]
+		],
+		[
+			"Tank Life",
+			"tankman",
+			[
+				246,
+				182,
+				40
+			]
+		]
+	],
+	"weekCharacters": [
+		"tadae",
+		"bf2",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Week8"
+}

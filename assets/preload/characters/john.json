@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-40,
+				-59
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "John Down"
+		},
+		{
+			"offsets": [
+				-79,
+				19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "John Left Note"
+		},
+		{
+			"offsets": [
+				50,
+				77
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "John Note"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				42
+			],
+			"anim": "idle",
+			"fps": 19,
+			"name": "John Idle Dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-46,
+				200
+			],
+			"anim": "singUP",
+			"fps": 19,
+			"name": "John Up Note",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/John",
+	"position": [
+		0,
+		100
+	],
+	"healthicon": "john",
+	"flip_x": false,
+	"healthbar_colors": [
+		249,
+		50,
+		53
+	],
+	"camera_position": [
+		-20,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

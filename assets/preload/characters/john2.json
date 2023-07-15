@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-40
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "John idle dance"
+		},
+		{
+			"offsets": [
+				0,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "John NOTE LEFT"
+		},
+		{
+			"offsets": [
+				0,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "John NOTE DOWN"
+		},
+		{
+			"offsets": [
+				0,
+				-70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "John NOTE UP"
+		},
+		{
+			"offsets": [
+				0,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "John NOTE RIGHT"
+		},
+		{
+			"offsets": [
+				10,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "John NOTE MISS RIGHT"
+		},
+		{
+			"offsets": [
+				0,
+				-90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "John NOTE MISS DOWN"
+		},
+		{
+			"offsets": [
+				20,
+				-50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "John NOTE MISS LEFT"
+		},
+		{
+			"offsets": [
+				10,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "John NOTE MISS UP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/John2",
+	"position": [
+		50,
+		100
+	],
+	"healthicon": "john",
+	"flip_x": false,
+	"healthbar_colors": [
+		249,
+		70,
+		53
+	],
+	"camera_position": [
+		-130,
+		-40
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

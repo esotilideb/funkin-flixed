@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "M TADAE Idle",
+	"idle_anim": "M TADAE Idle",
+	"position": [
+		100,
+		200
+	],
+	"scale": 0.5,
+	"image": "Menu_Tadae",
+	"flipX": true
+}

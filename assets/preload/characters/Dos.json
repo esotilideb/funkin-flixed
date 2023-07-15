@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				42
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Dos Left Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				-18
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Dos Down Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				92
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Dos Up Note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				13,
+				141
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Dos Right Note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				239,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "entrada",
+			"indices": [],
+			"name": "Dos entrada"
+		},
+		{
+			"offsets": [
+				13,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "Dos Idle Dance"
+		},
+		{
+			"offsets": [
+				-38,
+				-362
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Dos initial Idle Dance"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Dos",
+	"position": [
+		310,
+		320
+	],
+	"healthicon": "dos",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		-230,
+		-70
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}
